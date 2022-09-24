@@ -22,6 +22,9 @@
 *                                                                                                                *
 *****************************************************************************************************************/
 
+-----------------Solutions--------------------------
+
+/* write your SQL query below */
 
 SELECT FirstName, LastName, ReportsTo, Position, Age, 
 	CASE WHEN ReportsTo = "Jenny Richards" THEN "CEO"
