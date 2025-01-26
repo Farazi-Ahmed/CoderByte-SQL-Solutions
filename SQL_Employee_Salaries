@@ -63,4 +63,4 @@ WHERE
 				Order By s.Salary DESC
 				LIMIT 3
 			)
-		) 
+		)
